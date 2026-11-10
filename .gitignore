@@ -1,0 +1,17 @@
+# Python bytecode and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Notebook-generated files
+data/raw/
+outputs/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
