@@ -8,7 +8,7 @@ This repository contains the **original supplied notebook, renamed for the assig
 
 The notebook covers the research problem and objectives, a data-quality audit and cleaning, exploratory data analysis (EDA), a reproducible train/validation/test evaluation, collaborative-filtering model development, top-five ranking metrics, five recommendations for an existing MovieLens user, and an optional new-user onboarding demonstration.
 
-The models include a regularized rating-bias baseline, user-based *k*-nearest-neighbor (KNN) collaborative filtering, and biased matrix factorization. Evaluation includes **Precision@5, Recall@5, NDCG@5, Hit Rate@5, RMSE, and MAE**. The notebook documents the splitting, selection, and testing methodology.
+The models include a regularized rating-bias baseline, user-based *k*-nearest-neighbor (KNN) collaborative filtering, and biased matrix factorization. Evaluation includes **Precision@5, Recall@5, NDCG@5, Hit Rate@5, RMSE, and MAE**. The notebook documents the splitting, selection and testing methodology.
 
 ## Repository structure
 
